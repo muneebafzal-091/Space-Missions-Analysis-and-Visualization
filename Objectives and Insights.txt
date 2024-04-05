@@ -1,0 +1,7 @@
+1. Understand the trend of rocket launches over time and assess the increase in mission success rates. 2. Identify countries with the most successful space missions and observe historical trends.
+3. Determine the most frequently used rockets and ascertain their current activity status. 4. Analyze launch location patterns to discern any noticeable trends.
+
+1. The year 2021 witnessed the highest number of successful rocket launches at 122, with minimal failures.
+2. Casc of China stands out as the most successful company
+3. Falcon 9 Block 5 emerges as the most frequently used and still active rocket.
+4. Launches from Florida, USA, have been notably successful, indicating a significant investment in space exploration in the region.
